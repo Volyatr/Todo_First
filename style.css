@@ -1,0 +1,9 @@
+.hiddenListElement {
+  display: none;
+}
+.showCase {
+  visibility: inherit;
+}
+.showCaseHidden {
+  display: none;
+}
